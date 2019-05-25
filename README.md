@@ -1,5 +1,6 @@
 # t1_estatistica
-Dicas do Zabala:
+### Dicas do Zabala:
+
 1- LETTERS, STRING
 
 2- RNORM, HIST, SUMARY, GGPLOT2
