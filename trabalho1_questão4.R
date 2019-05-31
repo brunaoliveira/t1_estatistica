@@ -16,6 +16,6 @@ n <- 2500
 pf <- 430/n
 z <- abs(qnorm(0.025))
 (me <- z*sqrt(pf*(1-pf)/n))   #margem de erro
-(LIp <- pf - e)               #limite inferior
-(LSp <- pf + e)               #limite superior
+(LIp <- pf - me)               #limite inferior
+(LSp <- pf + me)               #limite superior
 
