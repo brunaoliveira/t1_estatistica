@@ -69,8 +69,8 @@ face_6_nb = 1/4
 # 4 * Pr({1}|B') = 1/3
 # Pr({1}|B') = 1/3 * 1/4
 # Pr({1}|B') = 1/12
-temp = 4 * 1/6
-prob_face_1_nb = (1 - temp)/4
+aux = 4 * 1/6
+prob_face_1_nb = (1 - aux)/4
 prob_face_1_nb
 
 # Pr(B|{6}) = (Pr(B) * Pr({6}|B)) / (Pr(B) * Pr({6}|B)) + (Pr(B') * Pr({6}|B'))
