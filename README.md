@@ -1,4 +1,6 @@
 # t1_estatistica
+Trabalho 1 da cadeira de Estatística com R do Curso de Ciência de Dados da PUCRS.
+
 ### Dicas do Zabala:
 
 1- LETTERS, STRING
